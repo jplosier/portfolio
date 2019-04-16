@@ -1,5 +1,6 @@
 # Portfolio
 A showcase of my work.
+Hosted at https://jplosier-portfolio.netlify.com/
 
 
 
